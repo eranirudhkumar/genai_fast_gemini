@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+genai_fastapi_venv/
+.DS_Store
+run.sh
+
 # Distribution / packaging
 .Python
 build/
